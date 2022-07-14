@@ -1,2 +1,0 @@
-# javascript
- estudo em cursoemvídeo
